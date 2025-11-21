@@ -16,7 +16,7 @@ function renderTickets(ticket) {
           <a href="#">
             <img src="${ticket.imgUrl}" alt="" class="rounded-top w-100 h-100 object-fit-cover">
           </a>
-          <div class="position-absolute top-0 start-0 text-white bg-pri-300 fs-5 px-3 py-2 rounded-end translate-middle-y">${ticket.area}</div>
+          <div class="position-absolute start-0 text-white bg-pri-300 fs-5 px-3 py-2 rounded-end top-n12">${ticket.area}</div>
           <div class="text-white bg-pri-400 position-absolute px-3 py-1 rounded-end translate-middle-y">${ticket.rate}</div>
         </div>
         <div class="px-6 py-4 bg-white d-flex justify-content-between flex-column h-100 shadow-sm rounded-bottom">
