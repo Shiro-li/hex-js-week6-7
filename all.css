@@ -1,0 +1,68 @@
+body {
+    line-height: 1.5;
+    font-family: "Noto Sans TC", serif;
+    box-sizing: border-box;
+}
+
+.fc-pri-400 {
+    color: #00807E;
+}
+
+.bg-pri-400 {
+    background-color: #00807E;
+    border: none;
+}
+
+.bg-pri-300 {
+    background-color: #64C3BF;
+    border: none;
+}
+
+.fc-neu-500  {
+    color: #9E9E9E;
+}
+
+.fc-neu-600  {
+    color: #757575;
+}
+
+.bdb-1-pri-400 {
+    border: 0px;
+    border-bottom: 1px solid #00807E;
+}
+
+.bdb-3-pri-400 {
+    border-bottom: 3px solid #00807E;
+}
+
+.bgc {
+    background-color: #FAFAFA;
+}
+
+.px-6{
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+.px-9{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+.px-10{
+    padding-top: 4.07rem;
+    padding-left: 6.875rem;
+    padding-right: 6.875rem;
+    padding-bottom: 3rem;
+}
+.new-ticket-area{
+    padding-top: 7.5rem;
+    padding-bottom: 7.5rem;
+}
+
+.ticket-list-area{
+    padding-top: 5.81rem;
+    padding-bottom: 5.81rem;
+}
+
+.img-h{
+    max-height: 200px;
+}
